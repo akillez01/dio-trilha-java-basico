@@ -1,6 +1,3 @@
-Aqui está um exemplo de um `README.md` para o projeto `ContaBanco`, incluindo uma descrição do projeto, instruções de uso e sugestões de possíveis melhorias:
-
-```md
 # Projeto ContaBanco
 
 Este projeto em Java simula a criação de uma conta bancária, permitindo que o usuário insira dados como número da conta, agência, nome do cliente e saldo, e exibe uma mensagem de confirmação personalizada.
